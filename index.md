@@ -1,1 +1,1 @@
-[排序](/algorithm/排序.md)
+[排序](./algorithm/排序.md)
