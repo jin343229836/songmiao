@@ -334,3 +334,4 @@ public class BinaryTree {
 ![RUNOOB 图片](images/Tree_40.png)
 ![RUNOOB 图片](images/Tree_41.png)  
 总交换次数：n + n\*(n-1) + n\*(n-1)\*(n-2) +... + n\*(n-1)\*(n-2)\*...\*2\*1  = n!
+因为前面的数肯定小于最后一个数，所以可以约等于n*n!
